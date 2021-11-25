@@ -49,7 +49,7 @@
           Name: "Bastion_host"
           Project: Vprofile
           Owner: Devops Team
-        exact_count: 1
+        exact_count: 10
         count_tag:
           Nmae: "Bastion_host"
           Project: Vprofile
